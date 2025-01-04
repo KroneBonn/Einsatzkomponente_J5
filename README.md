@@ -1,5 +1,4 @@
-# Einsatzkomponente
-Component for Joomla4.X
+Hierbei handelt es sich um einen Fork der bekannten Einsatzkomponente mit dem Ziel eines Updates auf Joomla 5.X
 
 
 <b>Einsatzkomponente für das Joomla-CMS V4.x</b>
